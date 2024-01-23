@@ -44,3 +44,15 @@ body {
     font-size: 14px;
     font-family: "DM Sans", sans-serif;
 }
+
+.sidebar nav ul li a .spanTitle {
+    margin-left: 4px;
+}
+
+.sidebar nav ul .book {
+    margin-top: 30px;
+}
+
+.sidebar nav ul .book #plus {
+    margin-left: 8em;
+}
